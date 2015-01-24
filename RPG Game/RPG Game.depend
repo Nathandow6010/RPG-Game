@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1422102153 source:c:\users\nathan\documents\github\c++\projects\rpg-game\rpg game\main.cpp
+	<iostream>
+	<windows.h>
+
